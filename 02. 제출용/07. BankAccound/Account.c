@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
+
 void account(int account)
 {
 	static int balance = 0;
@@ -24,11 +25,17 @@ int main(void)
 		if (scanf("%d", &input) == 1) {
 			account(input);
 		} else {
+
 			while (getchar() != '\n');
-			printf("\t\t잘못된 형식\n");
+			
+			printf("\t\t---잘못된 형식---\n");
+			
 		}
 	}
 	printf("=============================================\n");
 
 	return 0;
+
+
+	
 }
