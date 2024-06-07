@@ -1,0 +1,4 @@
+﻿  Rand3.c
+C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02. 제출용\20. Rand3\Rand3.c(26,1): warning C4716: 'integer_rand1': 값을 반환해야 합니다.
+C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02. 제출용\20. Rand3\Rand3.c(41,1): warning C4716: 'float_rand': 값을 반환해야 합니다.
+  20. Rand3.vcxproj -> C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02. 제출용\x64\Debug\20. Rand3.exe
