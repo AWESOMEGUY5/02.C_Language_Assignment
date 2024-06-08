@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C\uC6A9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01A5C1B3-88A4-4CF4-B2CB-7ADD2BDB1891}|21. Math\\21. Math.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C\uC6A9\\21. Math\\Math1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{01A5C1B3-88A4-4CF4-B2CB-7ADD2BDB1891}|21. Math\\21. Math.vcxproj|solutionrelative:21. Math\\Math1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4927780E-5116-4BB0-9150-DC3F26C838E2}|28. External\\28. External.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C\uC6A9\\28. External\\Externa1l.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4927780E-5116-4BB0-9150-DC3F26C838E2}|28. External\\28. External.vcxproj|solutionrelative:28. External\\Externa1l.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5103F817-F3F1-4BBF-97EE-D6428EC5E145}|20. Rand3\\20. Rand3.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C\uC6A9\\20. Rand3\\Rand3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5103F817-F3F1-4BBF-97EE-D6428EC5E145}|20. Rand3\\20. Rand3.vcxproj|solutionrelative:20. Rand3\\Rand3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4927780E-5116-4BB0-9150-DC3F26C838E2}|28. External\\28. External.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C\uC6A9\\28. External\\External2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4927780E-5116-4BB0-9150-DC3F26C838E2}|28. External\\28. External.vcxproj|solutionrelative:28. External\\External2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,33 +17,39 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 332,
+          "DockedWidth": 337,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Math1.c",
-              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C\uC6A9\\21. Math\\Math1.c",
-              "RelativeDocumentMoniker": "21. Math\\Math1.c",
-              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C\uC6A9\\21. Math\\Math1.c",
-              "RelativeToolTip": "21. Math\\Math1.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Title": "Externa1l.c",
+              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C\uC6A9\\28. External\\Externa1l.c",
+              "RelativeDocumentMoniker": "28. External\\Externa1l.c",
+              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C\uC6A9\\28. External\\Externa1l.c",
+              "RelativeToolTip": "28. External\\Externa1l.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-07T15:46:26.834Z",
+              "WhenOpened": "2024-06-08T07:32:39.326Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Rand3.c",
-              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C\uC6A9\\20. Rand3\\Rand3.c",
-              "RelativeDocumentMoniker": "20. Rand3\\Rand3.c",
-              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C\uC6A9\\20. Rand3\\Rand3.c",
-              "RelativeToolTip": "20. Rand3\\Rand3.c",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "Title": "External2.c",
+              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C\uC6A9\\28. External\\External2.c",
+              "RelativeDocumentMoniker": "28. External\\External2.c",
+              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C\uC6A9\\28. External\\External2.c",
+              "RelativeToolTip": "28. External\\External2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-07T15:09:55.068Z",
+              "WhenOpened": "2024-06-08T07:34:56.197Z",
               "EditorCaption": ""
             }
           ]

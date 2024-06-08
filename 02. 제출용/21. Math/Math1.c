@@ -19,7 +19,7 @@ int math_test()
 	// 내림
 	printf("내림 : %g %g\n", floor(-2.4), floor(7.1));
 	// 반올림
-	printf("반올림 : %g %g\n", floor(-2.4 + 0.5), floor(7.1 + 0.5));
+	printf("반올림 : %g %g\n", round(-2.4), round(7.6));
 }
 
 int main(void)
