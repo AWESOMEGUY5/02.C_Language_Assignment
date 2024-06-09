@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.1. \uC81C\uCD9C\uC6A92\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39584FF2-F53B-40C4-8C93-612372AE1AFE}|13. Pointer5\\13. Pointer5.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.1. \uC81C\uCD9C\uC6A92\\13. Pointer5\\Pointer5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39584FF2-F53B-40C4-8C93-612372AE1AFE}|13. Pointer5\\13. Pointer5.vcxproj|solutionrelative:13. Pointer5\\Pointer5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9AD8C1-E010-4D6D-9E93-3DF27C85942F}|14. Pointer6\\14. Pointer6.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.1. \uC81C\uCD9C\uC6A92\\14. Pointer6\\Pointer6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C9AD8C1-E010-4D6D-9E93-3DF27C85942F}|14. Pointer6\\14. Pointer6.vcxproj|solutionrelative:14. Pointer6\\Pointer6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pointer6.c",
+              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.1. \uC81C\uCD9C\uC6A92\\14. Pointer6\\Pointer6.c",
+              "RelativeDocumentMoniker": "14. Pointer6\\Pointer6.c",
+              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.1. \uC81C\uCD9C\uC6A92\\14. Pointer6\\Pointer6.c",
+              "RelativeToolTip": "14. Pointer6\\Pointer6.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-09T14:39:28.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pointer5.c",
+              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.1. \uC81C\uCD9C\uC6A92\\13. Pointer5\\Pointer5.c",
+              "RelativeDocumentMoniker": "13. Pointer5\\Pointer5.c",
+              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.1. \uC81C\uCD9C\uC6A92\\13. Pointer5\\Pointer5.c",
+              "RelativeToolTip": "13. Pointer5\\Pointer5.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-09T11:36:06.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
