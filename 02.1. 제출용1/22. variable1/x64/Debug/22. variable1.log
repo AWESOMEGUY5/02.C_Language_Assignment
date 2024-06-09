@@ -1,0 +1,2 @@
+﻿  variable1.c
+C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02. 제출용\22. variable1\variable1.c(8,1): error C4700: 초기화되지 않은 'temp' 지역 변수를 사용했습니다.

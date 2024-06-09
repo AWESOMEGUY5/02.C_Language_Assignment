@@ -1,0 +1,6 @@
+﻿  main.c
+  operation.c
+  코드를 생성하고 있습니다...
+main.obj : error LNK2019: submain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: get_countmain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02. 제출용\x64\Debug\08. Calculator.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
