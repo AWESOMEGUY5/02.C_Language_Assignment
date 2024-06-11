@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63058836-052B-4B26-9614-EB1F31698AD0}|30. Array10\\30. Array10.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\30. Array10\\Array9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63058836-052B-4B26-9614-EB1F31698AD0}|30. Array10\\30. Array10.vcxproj|solutionrelative:30. Array10\\Array9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E00BAE-D12D-4A8C-B53D-071995D8CF35}|23. Variable3\\23. Variable3.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\23. Variable3\\Variable7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3E00BAE-D12D-4A8C-B53D-071995D8CF35}|23. Variable3\\23. Variable3.vcxproj|solutionrelative:23. Variable3\\Variable7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF1AA86-6F48-45F6-88A0-3E7CB3817B6E}|30. Array8\\30. Array8.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\30. Array8\\Array8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9FF1AA86-6F48-45F6-88A0-3E7CB3817B6E}|30. Array8\\30. Array8.vcxproj|solutionrelative:30. Array8\\Array8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Array9.c",
+              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\30. Array10\\Array9.c",
+              "RelativeDocumentMoniker": "30. Array10\\Array9.c",
+              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\30. Array10\\Array9.c",
+              "RelativeToolTip": "30. Array10\\Array9.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-11T08:11:37.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Array8.c",
+              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\30. Array8\\Array8.c",
+              "RelativeDocumentMoniker": "30. Array8\\Array8.c",
+              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\30. Array8\\Array8.c",
+              "RelativeToolTip": "30. Array8\\Array8.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-11T08:03:55.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Variable7.c",
+              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\23. Variable3\\Variable7.c",
+              "RelativeDocumentMoniker": "23. Variable3\\Variable7.c",
+              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\23. Variable3\\Variable7.c",
+              "RelativeToolTip": "23. Variable3\\Variable7.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-11T06:24:54.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

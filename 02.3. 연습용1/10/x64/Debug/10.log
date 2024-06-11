@@ -1,0 +1,3 @@
+﻿  Rand2.c
+C:\Users\82108\source\repos\02.3. 연습용1\10\Rand2.c(8,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  10.vcxproj -> C:\Users\82108\source\repos\02.3. 연습용1\x64\Debug\10. Rand2.exe
