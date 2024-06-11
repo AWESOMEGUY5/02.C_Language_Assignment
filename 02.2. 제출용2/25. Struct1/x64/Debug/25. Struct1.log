@@ -1,0 +1,2 @@
+﻿  Struct1.c
+C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02.2. 제출용2\25. Struct1\Struct1.c(18,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

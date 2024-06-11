@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.1. \uC81C\uCD9C\uC6A92\\",
+  "WorkspaceRootPath": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.2. \uC81C\uCD9C\uC6A92\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39584FF2-F53B-40C4-8C93-612372AE1AFE}|13. Pointer5\\13. Pointer5.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.1. \uC81C\uCD9C\uC6A92\\13. Pointer5\\Pointer5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{39584FF2-F53B-40C4-8C93-612372AE1AFE}|13. Pointer5\\13. Pointer5.vcxproj|solutionrelative:13. Pointer5\\Pointer5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E96B0A1A-6B37-41A2-B114-D012CBB8E63A}|29. Struct5\\29. Struct5.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.2. \uC81C\uCD9C\uC6A92\\29. Struct5\\Struct5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E96B0A1A-6B37-41A2-B114-D012CBB8E63A}|29. Struct5\\29. Struct5.vcxproj|solutionrelative:29. Struct5\\Struct5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C9AD8C1-E010-4D6D-9E93-3DF27C85942F}|14. Pointer6\\14. Pointer6.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.1. \uC81C\uCD9C\uC6A92\\14. Pointer6\\Pointer6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C9AD8C1-E010-4D6D-9E93-3DF27C85942F}|14. Pointer6\\14. Pointer6.vcxproj|solutionrelative:14. Pointer6\\Pointer6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{34885717-99EB-493C-94AC-3401039C1054}|26. Struct2\\26. Struct2.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.2. \uC81C\uCD9C\uC6A92\\26. Struct2\\Struct2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34885717-99EB-493C-94AC-3401039C1054}|26. Struct2\\26. Struct2.vcxproj|solutionrelative:26. Struct2\\Struct2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9429A99-CB0F-401D-9FEF-EE9DAC763455}|27. Struct3\\27. Struct3.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.2. \uC81C\uCD9C\uC6A92\\27. Struct3\\Struct3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9429A99-CB0F-401D-9FEF-EE9DAC763455}|27. Struct3\\27. Struct3.vcxproj|solutionrelative:27. Struct3\\Struct3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E267D857-F7FE-4772-AE35-A1C5BB1A5A88}|28. Struct4\\28. Struct4.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.2. \uC81C\uCD9C\uC6A92\\28. Struct4\\Struct4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E267D857-F7FE-4772-AE35-A1C5BB1A5A88}|28. Struct4\\28. Struct4.vcxproj|solutionrelative:28. Struct4\\Struct4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 337,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pointer6.c",
-              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.1. \uC81C\uCD9C\uC6A92\\14. Pointer6\\Pointer6.c",
-              "RelativeDocumentMoniker": "14. Pointer6\\Pointer6.c",
-              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.1. \uC81C\uCD9C\uC6A92\\14. Pointer6\\Pointer6.c",
-              "RelativeToolTip": "14. Pointer6\\Pointer6.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "DocumentIndex": 0,
+              "Title": "Struct5.c",
+              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.2. \uC81C\uCD9C\uC6A92\\29. Struct5\\Struct5.c",
+              "RelativeDocumentMoniker": "29. Struct5\\Struct5.c",
+              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.2. \uC81C\uCD9C\uC6A92\\29. Struct5\\Struct5.c",
+              "RelativeToolTip": "29. Struct5\\Struct5.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-09T14:39:28.018Z",
+              "WhenOpened": "2024-06-10T13:53:30.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Pointer5.c",
-              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.1. \uC81C\uCD9C\uC6A92\\13. Pointer5\\Pointer5.c",
-              "RelativeDocumentMoniker": "13. Pointer5\\Pointer5.c",
-              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.1. \uC81C\uCD9C\uC6A92\\13. Pointer5\\Pointer5.c",
-              "RelativeToolTip": "13. Pointer5\\Pointer5.c",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBsAAAASAAAA",
+              "DocumentIndex": 3,
+              "Title": "Struct4.c",
+              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.2. \uC81C\uCD9C\uC6A92\\28. Struct4\\Struct4.c",
+              "RelativeDocumentMoniker": "28. Struct4\\Struct4.c",
+              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.2. \uC81C\uCD9C\uC6A92\\28. Struct4\\Struct4.c",
+              "RelativeToolTip": "28. Struct4\\Struct4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-09T11:36:06.494Z",
+              "WhenOpened": "2024-06-10T13:39:39.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Struct2.c",
+              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.2. \uC81C\uCD9C\uC6A92\\26. Struct2\\Struct2.c",
+              "RelativeDocumentMoniker": "26. Struct2\\Struct2.c",
+              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.2. \uC81C\uCD9C\uC6A92\\26. Struct2\\Struct2.c",
+              "RelativeToolTip": "26. Struct2\\Struct2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-10T13:37:10.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Struct3.c",
+              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.2. \uC81C\uCD9C\uC6A92\\27. Struct3\\Struct3.c",
+              "RelativeDocumentMoniker": "27. Struct3\\Struct3.c",
+              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.2. \uC81C\uCD9C\uC6A92\\27. Struct3\\Struct3.c",
+              "RelativeToolTip": "27. Struct3\\Struct3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-10T13:28:49.519Z",
               "EditorCaption": ""
             }
           ]

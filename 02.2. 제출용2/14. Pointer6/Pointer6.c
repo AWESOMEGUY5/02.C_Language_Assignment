@@ -4,7 +4,7 @@ void pointer1()
 {
 	//int* p;								// p(주소) : 변경 가능     *p(내용) : 변경 가능
 	//const int* p;							// p(주소) : 변경 가능     *p(내용) : 변경 불가능
-	int* n = 0; const int* p1 = &n;			// p(주소) : 변경 불가능   *p(내용) : 변경 가능
+	int n = 0; const int* p1 = &n;			// p(주소) : 변경 불가능   *p(내용) : 변경 가능
 	const int* m = 0; const int* p2 = &m;	// p(주소) : 변경 불가능   *p(내용) : 변경 불가능
 }
 
