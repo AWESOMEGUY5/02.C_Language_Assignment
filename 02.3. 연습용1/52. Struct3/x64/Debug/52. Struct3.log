@@ -1,0 +1,5 @@
+﻿  Struct3.c
+C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02.3. 연습용1\52. Struct3\Struct3.c(3,23): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02.3. 연습용1\52. Struct3\Struct3.c(4,35): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02.3. 연습용1\52. Struct3\Struct3.c(11,59): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02.3. 연습용1\52. Struct3\Struct3.c(12,63): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

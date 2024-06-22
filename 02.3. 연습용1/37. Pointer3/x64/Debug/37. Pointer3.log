@@ -1,0 +1,11 @@
+﻿  Pointer3.c
+C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02.3. 연습용1\37. Pointer3\Pointer3.c(10,45): warning C4311: '형식 캐스트': 'char *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02.3. 연습용1\37. Pointer3\Pointer3.c(10,59): warning C4311: '형식 캐스트': 'char *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02.3. 연습용1\37. Pointer3\Pointer3.c(10,79): warning C4311: '형식 캐스트': 'char *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02.3. 연습용1\37. Pointer3\Pointer3.c(11,45): warning C4311: '형식 캐스트': 'int *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02.3. 연습용1\37. Pointer3\Pointer3.c(11,59): warning C4311: '형식 캐스트': 'int *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02.3. 연습용1\37. Pointer3\Pointer3.c(11,79): warning C4311: '형식 캐스트': 'int *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02.3. 연습용1\37. Pointer3\Pointer3.c(12,45): warning C4311: '형식 캐스트': 'double *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02.3. 연습용1\37. Pointer3\Pointer3.c(12,59): warning C4311: '형식 캐스트': 'double *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02.3. 연습용1\37. Pointer3\Pointer3.c(12,79): warning C4311: '형식 캐스트': 'double *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+  37. Pointer3.vcxproj -> C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02.3. 연습용1\x64\Debug\37. Pointer3.exe
